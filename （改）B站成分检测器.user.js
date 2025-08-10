@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name              （改）B站成分检测器
+// @name              （改）（改）B站成分检测器
 // @version           3.0.0
 // @author            GuihongWang,hmjz100,xulaupuz,trychen
 // @namespace         github.com/GuihongWang
