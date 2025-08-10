@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name              （改）B站成分检测器
 // @version           3.0.0
-// @author            hmjz100,xulaupuz,trychen
-// @namespace         github.com/hmjz100
+// @author            GuihongWang,hmjz100,xulaupuz,trychen
+// @namespace         github.com/GuihongWang
 // @license           GPLv3
 // @description       《也许同类型中最好用？》系列 - B站评论区自动标注成分，支持动态和关注识别以及手动输入 UID 识别，默认标注包括 抽奖、原神、崩坏3、崩坏星穹铁道、绝区零、明日方舟、碧蓝航线、蔚蓝档案、鸣潮、战双帕弥什、尘白禁区、少女前线、少女前线2、NIKKE胜利女神、VTuber、王者荣耀、和平精英、三国杀、Minecraft、迷你世界、初生科技、火柴人、Roblox、火影忍者、暗区突围、香肠派对、穿越火线、地下城与勇士、绝地求生、英雄联盟、魔兽世界、CSGO、第五人格、蛋仔派对、GLITCH、彩虹六号：围攻、无畏契约、战争雷霆、Fate/Grand Order、女神异闻录: 夜幕魅影、MyGO/AveMujica、GBC、孤独摇滚、小马宝莉、孙笑川、电棍otto、这辈子有了、学生、互助、仙家军、伪成分。
 // @homepage          https://github.com/GuihongWang/bilibili-comment-checker/
